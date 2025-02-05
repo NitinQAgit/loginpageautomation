@@ -1,0 +1,124 @@
+[INFO ] 2025-01-11 22:06:27.263 [main] RestAssuredAutomationFramework - Create user operation is executed
+[INFO ] 2025-01-11 22:06:28.631 [main] RestAssuredAutomationFramework - Get user operation is executed
+[INFO ] 2025-01-11 22:06:31.600 [main] RestAssuredAutomationFramework - Update user operation is executed
+[INFO ] 2025-01-11 22:06:33.134 [main] RestAssuredAutomationFramework - Delete user operation is executed
+[INFO ] 2025-01-11 22:09:30.256 [main] RestAssuredAutomationFramework_test - Create user operation is executed
+[INFO ] 2025-01-11 22:09:31.725 [main] RestAssuredAutomationFramework_test - Get user operation is executed
+[INFO ] 2025-01-11 22:09:34.695 [main] RestAssuredAutomationFramework_test - Update user operation is executed
+[INFO ] 2025-01-11 22:09:36.229 [main] RestAssuredAutomationFramework_test - Delete user operation is executed
+[INFO ] 2025-01-12 14:16:24.321 [main] RestAssuredAutomationFramework_test - Create user operation is executed
+[INFO ] 2025-01-12 14:16:25.979 [main] RestAssuredAutomationFramework_test - Get user operation is executed
+[INFO ] 2025-01-12 14:16:29.666 [main] RestAssuredAutomationFramework_test - Update user operation is executed
+[INFO ] 2025-01-12 14:16:31.962 [main] RestAssuredAutomationFramework_test - Delete user operation is executed
+[INFO ] 2025-01-12 17:20:45.145 [main] RestAssuredAutomationFramework_test - Create user operation is executed
+[INFO ] 2025-01-12 17:20:46.820 [main] RestAssuredAutomationFramework_test - Get user operation is executed
+[INFO ] 2025-01-12 17:20:50.089 [main] RestAssuredAutomationFramework_test - Update user operation is executed
+[INFO ] 2025-01-12 17:20:51.632 [main] RestAssuredAutomationFramework_test - Delete user operation is executed
+[INFO ] 2025-01-12 18:54:10.703 [main] RestAssuredAutomationFramework_test - Create user operation is executed
+[INFO ] 2025-01-12 18:54:12.827 [main] RestAssuredAutomationFramework_test - Get user operation is executed
+[INFO ] 2025-01-12 18:54:16.072 [main] RestAssuredAutomationFramework_test - Update user operation is executed
+[INFO ] 2025-01-12 18:54:17.901 [main] RestAssuredAutomationFramework_test - Delete user operation is executed
+[INFO ] 2025-01-13 17:29:37.985 [main] RestAssuredAutomationFramework_test - Create user operation is executed
+[INFO ] 2025-01-13 17:29:39.989 [main] RestAssuredAutomationFramework_test - Create users with array operation is executed
+[INFO ] 2025-01-13 17:29:41.910 [main] RestAssuredAutomationFramework_test - Create users with list operation is executed
+[INFO ] 2025-01-13 17:29:43.856 [main] RestAssuredAutomationFramework_test - Get user operation is executed
+[INFO ] 2025-01-13 17:29:48.259 [main] RestAssuredAutomationFramework_test - Get user not found operation is executed
+[INFO ] 2025-01-13 17:29:50.716 [main] RestAssuredAutomationFramework_test - Update user operation is executed
+[INFO ] 2025-01-13 17:29:57.372 [main] RestAssuredAutomationFramework_test - Delete user operation is executed
+[INFO ] 2025-01-13 17:30:02.183 [main] RestAssuredAutomationFramework_test - Delete user not found operation is executed
+[INFO ] 2025-01-13 17:30:04.335 [main] RestAssuredAutomationFramework_test - Login user operation is executed
+[INFO ] 2025-01-13 17:30:06.689 [main] RestAssuredAutomationFramework_test - Logout user operation is executed
+[INFO ] 2025-01-13 17:32:54.419 [main] RestAssuredAutomationFramework_test - Create users with array operation is executed
+[INFO ] 2025-01-13 17:34:08.937 [main] RestAssuredAutomationFramework_test - Create user operation is executed
+[INFO ] 2025-01-13 17:39:05.488 [main] RestAssuredAutomationFramework_test - Create users with array operation is executed
+[INFO ] 2025-01-13 17:39:07.579 [main] RestAssuredAutomationFramework_test - Get user operation is executed
+[INFO ] 2025-01-13 17:56:10.037 [main] RestAssuredAutomationFramework_test - Create users with array operation is executed
+[INFO ] 2025-01-13 17:56:12.092 [main] RestAssuredAutomationFramework_test - Create users with list operation is executed
+[INFO ] 2025-01-13 17:56:13.934 [main] RestAssuredAutomationFramework_test - Get user operation is executed
+[INFO ] 2025-01-13 17:56:17.926 [main] RestAssuredAutomationFramework_test - Get user not found operation is executed
+[INFO ] 2025-01-13 17:56:19.872 [main] RestAssuredAutomationFramework_test - Update user operation is executed
+[INFO ] 2025-01-13 17:56:25.610 [main] RestAssuredAutomationFramework_test - Delete user operation is executed
+[INFO ] 2025-01-13 17:56:29.395 [main] RestAssuredAutomationFramework_test - Delete user not found operation is executed
+[INFO ] 2025-01-13 17:56:31.651 [main] RestAssuredAutomationFramework_test - Login user operation is executed
+[INFO ] 2025-01-13 17:56:33.696 [main] RestAssuredAutomationFramework_test - Logout user operation is executed
+[INFO ] 2025-01-13 18:04:21.222 [main] RestAssuredAutomationFramework_test - Create users with array operation is executed
+[INFO ] 2025-01-13 18:04:23.617 [main] RestAssuredAutomationFramework_test - Create users with list operation is executed
+[INFO ] 2025-01-13 18:04:25.973 [main] RestAssuredAutomationFramework_test - Get user operation is executed
+[INFO ] 2025-01-13 18:04:30.375 [main] RestAssuredAutomationFramework_test - Get user not found operation is executed
+[INFO ] 2025-01-13 18:04:32.423 [main] RestAssuredAutomationFramework_test - Update user operation is executed
+[INFO ] 2025-01-13 18:04:39.181 [main] RestAssuredAutomationFramework_test - Delete user operation is executed
+[INFO ] 2025-01-13 18:04:43.277 [main] RestAssuredAutomationFramework_test - Delete user not found operation is executed
+[INFO ] 2025-01-13 18:04:45.216 [main] RestAssuredAutomationFramework_test - Login user operation is executed
+[INFO ] 2025-01-13 18:04:47.066 [main] RestAssuredAutomationFramework_test - Logout user operation is executed
+[INFO ] 2025-01-13 18:17:56.571 [main] RestAssuredAutomationFramework_test - Create users with array operation is executed
+[INFO ] 2025-01-13 18:17:58.720 [main] RestAssuredAutomationFramework_test - Create users with list operation is executed
+[INFO ] 2025-01-13 18:18:00.676 [main] RestAssuredAutomationFramework_test - Get user operation is executed
+[INFO ] 2025-01-13 18:18:05.083 [main] RestAssuredAutomationFramework_test - Get user not found operation is executed
+[INFO ] 2025-01-13 18:18:06.928 [main] RestAssuredAutomationFramework_test - Update user operation is executed
+[INFO ] 2025-01-13 18:18:13.276 [main] RestAssuredAutomationFramework_test - Delete user operation is executed
+[INFO ] 2025-01-13 18:18:16.735 [main] RestAssuredAutomationFramework_test - Delete user not found operation is executed
+[INFO ] 2025-01-13 18:18:18.601 [main] RestAssuredAutomationFramework_test - Login user operation is executed
+[INFO ] 2025-01-13 18:18:20.753 [main] RestAssuredAutomationFramework_test - Logout user operation is executed
+[INFO ] 2025-01-13 18:28:03.493 [main] RestAssuredAutomationFramework_test - Create user operation is executed
+[INFO ] 2025-01-13 18:32:50.324 [main] RestAssuredAutomationFramework_test - Create user operation is executed
+[INFO ] 2025-01-13 18:43:46.602 [main] RestAssuredAutomationFramework_test - Create user operation is executed
+[INFO ] 2025-01-13 18:45:01.358 [main] RestAssuredAutomationFramework_test - Create user operation is executed
+[INFO ] 2025-01-13 18:45:03.285 [main] RestAssuredAutomationFramework_test - Create users with array operation is executed
+[INFO ] 2025-01-13 18:45:04.973 [main] RestAssuredAutomationFramework_test - Create users with list operation is executed
+[INFO ] 2025-01-13 18:45:07.021 [main] RestAssuredAutomationFramework_test - Get user operation is executed
+[INFO ] 2025-01-13 18:45:10.912 [main] RestAssuredAutomationFramework_test - Get user not found operation is executed
+[INFO ] 2025-01-13 18:45:12.755 [main] RestAssuredAutomationFramework_test - Update user operation is executed
+[INFO ] 2025-01-13 18:45:18.592 [main] RestAssuredAutomationFramework_test - Delete user operation is executed
+[INFO ] 2025-01-13 18:45:22.687 [main] RestAssuredAutomationFramework_test - Delete user not found operation is executed
+[INFO ] 2025-01-13 18:45:24.427 [main] RestAssuredAutomationFramework_test - Login user operation is executed
+[INFO ] 2025-01-13 18:45:26.270 [main] RestAssuredAutomationFramework_test - Logout user operation is executed
+[INFO ] 2025-01-13 18:53:00.708 [main] RestAssuredAutomationFramework_test - Create user operation is executed
+[INFO ] 2025-01-13 18:53:03.084 [main] RestAssuredAutomationFramework_test - Create users with array operation is executed
+[INFO ] 2025-01-13 18:53:05.335 [main] RestAssuredAutomationFramework_test - Create users with list operation is executed
+[INFO ] 2025-01-13 18:53:07.079 [main] RestAssuredAutomationFramework_test - Get user operation is executed
+[INFO ] 2025-01-13 18:53:10.866 [main] RestAssuredAutomationFramework_test - Get user not found operation is executed
+[INFO ] 2025-01-13 18:53:12.914 [main] RestAssuredAutomationFramework_test - Update user operation is executed
+[INFO ] 2025-01-13 18:53:19.056 [main] RestAssuredAutomationFramework_test - Delete user operation is executed
+[INFO ] 2025-01-13 18:53:23.252 [main] RestAssuredAutomationFramework_test - Delete user not found operation is executed
+[INFO ] 2025-01-13 18:53:25.510 [main] RestAssuredAutomationFramework_test - Login user operation is executed
+[INFO ] 2025-01-13 18:53:27.383 [main] RestAssuredAutomationFramework_test - Logout user operation is executed
+[INFO ] 2025-01-13 18:55:51.607 [main] RestAssuredAutomationFramework_test - Create user operation is executed
+[INFO ] 2025-01-13 18:55:54.359 [main] RestAssuredAutomationFramework_test - Create users with array operation is executed
+[INFO ] 2025-01-13 18:55:56.142 [main] RestAssuredAutomationFramework_test - Create users with list operation is executed
+[INFO ] 2025-01-13 18:55:58.293 [main] RestAssuredAutomationFramework_test - Get user operation is executed
+[INFO ] 2025-01-13 18:56:01.774 [main] RestAssuredAutomationFramework_test - Get user not found operation is executed
+[INFO ] 2025-01-13 18:56:03.516 [main] RestAssuredAutomationFramework_test - Update user operation is executed
+[INFO ] 2025-01-13 18:56:08.737 [main] RestAssuredAutomationFramework_test - Delete user operation is executed
+[INFO ] 2025-01-13 18:56:12.936 [main] RestAssuredAutomationFramework_test - Delete user not found operation is executed
+[INFO ] 2025-01-13 18:56:14.881 [main] RestAssuredAutomationFramework_test - Login user operation is executed
+[INFO ] 2025-01-13 18:56:16.883 [main] RestAssuredAutomationFramework_test - Logout user operation is executed
+[INFO ] 2025-01-13 18:57:22.326 [main] RestAssuredAutomationFramework_test - Create user operation is executed
+[INFO ] 2025-01-13 18:57:24.311 [main] RestAssuredAutomationFramework_test - Create users with array operation is executed
+[INFO ] 2025-01-13 18:57:26.466 [main] RestAssuredAutomationFramework_test - Create users with list operation is executed
+[INFO ] 2025-01-13 18:57:28.302 [main] RestAssuredAutomationFramework_test - Get user operation is executed
+[INFO ] 2025-01-13 18:57:31.860 [main] RestAssuredAutomationFramework_test - Get user not found operation is executed
+[INFO ] 2025-01-13 18:57:33.423 [main] RestAssuredAutomationFramework_test - Update user operation is executed
+[INFO ] 2025-01-13 18:57:39.261 [main] RestAssuredAutomationFramework_test - Delete user operation is executed
+[INFO ] 2025-01-13 18:57:42.946 [main] RestAssuredAutomationFramework_test - Delete user not found operation is executed
+[INFO ] 2025-01-13 18:57:44.790 [main] RestAssuredAutomationFramework_test - Login user operation is executed
+[INFO ] 2025-01-13 18:57:46.940 [main] RestAssuredAutomationFramework_test - Logout user operation is executed
+[INFO ] 2025-01-13 21:17:49.144 [main] RestAssuredAutomationFramework_test - Create user operation is executed
+[INFO ] 2025-01-13 21:17:50.263 [main] RestAssuredAutomationFramework_test - Create users with array operation is executed
+[INFO ] 2025-01-13 21:17:51.374 [main] RestAssuredAutomationFramework_test - Create users with list operation is executed
+[INFO ] 2025-01-13 21:17:52.500 [main] RestAssuredAutomationFramework_test - Get user operation is executed
+[INFO ] 2025-01-13 21:17:54.762 [main] RestAssuredAutomationFramework_test - Get user not found operation is executed
+[INFO ] 2025-01-13 21:17:55.899 [main] RestAssuredAutomationFramework_test - Update user operation is executed
+[INFO ] 2025-01-13 21:17:59.550 [main] RestAssuredAutomationFramework_test - Delete user operation is executed
+[INFO ] 2025-01-13 21:18:01.870 [main] RestAssuredAutomationFramework_test - Delete user not found operation is executed
+[INFO ] 2025-01-13 21:18:02.987 [main] RestAssuredAutomationFramework_test - Login user operation is executed
+[INFO ] 2025-01-13 21:18:04.089 [main] RestAssuredAutomationFramework_test - Logout user operation is executed
+[INFO ] 2025-01-13 21:21:47.311 [main] RestAssuredAutomationFramework_test - Create user operation is executed
+[INFO ] 2025-01-13 21:21:49.509 [main] RestAssuredAutomationFramework_test - Create users with array operation is executed
+[INFO ] 2025-01-13 21:21:50.709 [main] RestAssuredAutomationFramework_test - Create users with list operation is executed
+[INFO ] 2025-01-13 21:21:51.923 [main] RestAssuredAutomationFramework_test - Get user operation is executed
+[INFO ] 2025-01-13 21:21:54.319 [main] RestAssuredAutomationFramework_test - Get user not found operation is executed
+[INFO ] 2025-01-13 21:21:55.481 [main] RestAssuredAutomationFramework_test - Update user operation is executed
+[INFO ] 2025-01-13 21:21:58.915 [main] RestAssuredAutomationFramework_test - Delete user operation is executed
+[INFO ] 2025-01-13 21:22:01.130 [main] RestAssuredAutomationFramework_test - Delete user not found operation is executed
+[INFO ] 2025-01-13 21:22:02.381 [main] RestAssuredAutomationFramework_test - Login user operation is executed
+[INFO ] 2025-01-13 21:22:03.491 [main] RestAssuredAutomationFramework_test - Logout user operation is executed
